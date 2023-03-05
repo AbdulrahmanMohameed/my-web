@@ -1,0 +1,39 @@
+h1 {color: rgb(5, 2, 2);  
+    text-align:center;
+    letter-spacing: 3px;}
+  body   
+   ul {list-style-type: circle;color: rgb(12, 17, 14);} 
+  table {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+  width: 50%; border: rgb(221, 92, 6); direction: rtl; text-align: center;} 
+  td,th {font-size: x-large; border: 1px solid#0f0f0e;}
+  td,th {font-size: 1.1em;background-color: rgb(238, 122, 14); color: rgb(14, 2, 2);}
+  td,th {font-size: 1.1em;background-color: rgb(241, 165, 24); color: rgb(14, 2, 2);}
+  td,th {font-size: 1.1em;background-color: rgb(240, 183, 98); color: rgb(14, 2, 2);}
+   .main {border: blue;   
+    width:100px;height:10px;
+    margin: right auto;
+    margin:left auto;
+    margin: top auto;
+    margin: bottom auto;color: rgb(252, 6, 6);;}
+   #header {border: blue;  
+    width:200px;height:15px;
+    margin: right 0px;
+    margin:left 10px;
+    margin: top 5px;
+    margin: bottom 5px;color: rgb(3, 3, 3);}
+     .menu {border: blue;  
+      width:800px;height: 20px;
+      margin: right 5px;
+      margin:left 5px;
+      margin: top 5px;
+      margin: bottom 25px;color: rgb(248, 3, 3);} 
+       .content {border: blue;  
+        width:400px;height:20px;
+        margin: right 5px;
+        margin:left 5px;
+        margin: top 5px;
+        margin: bottom 5px;color: rgb(8, 8, 8);}  
+        div.one {background-color:rgb(212, 120, 33);background-image:url(../Desktop/My\);}
+        body{background-image: url(../Desktop/images/icone\ \(1\).jpg);}
+        div.one{background-color: rgb(19, 122, 212);background-image: url(../Desktop/images/icone\ \(4\).jpg);}
+        
